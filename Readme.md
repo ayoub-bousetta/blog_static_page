@@ -8,4 +8,4 @@ Enjoy
 
 
 
-You can  [See it live](http://blog.aubbusta.com) now.
+You can  [See it live](http://blog.aubbusta.co) now.
